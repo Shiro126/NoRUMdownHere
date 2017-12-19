@@ -1,1 +1,0 @@
-syf kila i mogila

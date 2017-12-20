@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RumMeansFun", "RumMeansFun.csproj", "{A549C397-35E5-0131-8734-1F265F506F16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A549C397-35E5-0131-8734-1F265F506F16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A549C397-35E5-0131-8734-1F265F506F16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A549C397-35E5-0131-8734-1F265F506F16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A549C397-35E5-0131-8734-1F265F506F16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
